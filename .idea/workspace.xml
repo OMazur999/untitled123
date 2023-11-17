@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="push 2">
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_001logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_007-009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_011.jpg" afterDir="false" />
+    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="push 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/New_Projekt_UP.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/New_Projekt_UP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/hash.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/орпмоб.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +40,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/HTML/Figma_Project_Ukrposta",
@@ -82,7 +72,8 @@
       <workItem from="1700246934020" duration="180000" />
       <workItem from="1700247189361" duration="893000" />
       <workItem from="1700248260685" duration="293000" />
-      <workItem from="1700248883614" duration="1927000" />
+      <workItem from="1700248883614" duration="2302000" />
+      <workItem from="1700251413580" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="push 2">
       <created>1700245568974</created>
@@ -114,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700248526164</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="push 3">
+      <option name="closed" value="true" />
+      <created>1700251153007</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700251153007</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="push 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="push 2" />
+    <MESSAGE value="push 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="push 3" />
   </component>
 </project>
