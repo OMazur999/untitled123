@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="push 2" />
+    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="push 2">
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_001logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_007-009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/UP_011.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/New_Projekt_UP.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Figma_Project_Ukrposta/New_Projekt_UP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/hash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/орпмоб.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +54,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/HTML/Figma_Project_Ukrposta",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +63,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Figma_Project_Ukrposta" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +81,8 @@
       <workItem from="1700246261134" duration="155000" />
       <workItem from="1700246934020" duration="180000" />
       <workItem from="1700247189361" duration="893000" />
+      <workItem from="1700248260685" duration="293000" />
+      <workItem from="1700248883614" duration="1927000" />
     </task>
     <task id="LOCAL-00001" summary="push 2">
       <created>1700245568974</created>
@@ -84,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700247861717</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push 2">
+      <option name="closed" value="true" />
+      <created>1700248526164</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700248526164</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
