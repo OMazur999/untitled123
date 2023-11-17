@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+
+}
+header{
+    width: 100vw;
+    height: 100vh;
+    background-color: #9d6d49;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: #407ccb;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    width: 100vw;
+    height: 100vh;
+    background-color: #40ad24;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    width: auto;
+    height: 25vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+html{
+    scroll-behavior:smooth;
+}

@@ -1,0 +1,62 @@
+.div01, .div02, .div03, .div04, .div05, .div06{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    transition: 4s;
+}
+.div01{
+    background-color: aqua;
+}
+.div02{
+    background-color: blue;
+}
+.div03{
+    background-color: #77218b;
+}
+.div04{
+    background-color: #98be35;
+}
+.div05{
+    background-color: #082244;
+}
+.div06{
+    background-color: #a2602a;
+}
+#container{
+    width: auto;
+    height: auto;
+    flex-direction: row ;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.div01:hover{
+    background-color: #46082c;
+    border-radius: 50%;
+    transition: 2s;
+}
+.div02:hover{
+    background-color: #3dce17;
+    border-radius: 50%;
+    transition: 2s;
+}
+.div03:hover{
+    background-color: #9d6d49;
+    border-radius: 50%;
+    transition: 2s;
+}
+.div04:hover{
+    background-color: rgba(7, 41, 84, 0.65);
+    border-radius: 50%;
+    transition: 2s;
+}
+.div05:hover{
+    background-color: rgba(117, 88, 68, 0.47);
+    border-radius: 50%;
+    transition: 2s;
+}
+.div06:hover{
+    background-color: rgba(58, 96, 36, 0.59);
+    border-radius: 50%;
+    transition: 2s;
+}
