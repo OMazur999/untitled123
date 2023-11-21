@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="push 3">
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/HW1/OMazur_JS_HW1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/HW1/OMazur_JS_HW1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/L1/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/L1/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,25 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/HTML/Figma_Project_Ukrposta",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Galaxy Book/IdeaProjects/untitled123/HTML/Figma_Project_Ukrposta&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Figma_Project_Ukrposta" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson1\HW1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,6 +81,8 @@
       <workItem from="1700248260685" duration="293000" />
       <workItem from="1700248883614" duration="2302000" />
       <workItem from="1700251413580" duration="76000" />
+      <workItem from="1700251823739" duration="134000" />
+      <workItem from="1700591115474" duration="1283000" />
     </task>
     <task id="LOCAL-00001" summary="push 2">
       <created>1700245568974</created>
@@ -113,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700251153007</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="push 3">
+      <option name="closed" value="true" />
+      <created>1700251841161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700251841161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
