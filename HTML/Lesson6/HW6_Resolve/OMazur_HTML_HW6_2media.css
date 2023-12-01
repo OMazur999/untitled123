@@ -1,0 +1,47 @@
+@media screen and (min-width: 100px) and (max-width: 480px){
+    main, .bigblock{
+        display: flex;
+        flex-direction: column;
+    }
+    header, footer{
+        width: 88vw;
+        height: 15vh;
+        margin-left: 1vw;
+    }
+    .bigblock{
+        width: 88vw;
+        flex-direction: column;
+    }
+    nav{
+        width: 88vw;
+        height: auto;
+        margin: 0 1vw 1vh 1vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /*background-color: #40ad24;*/
+    }
+    section{
+        width: 88vw;
+        height: 40vh;
+    }
+    .C{
+        width: 15vw;
+        height: 15vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #a9a0a0;
+        border: 1px solid;
+        border-radius: 5px;
+        margin: 0 0 0 0;
+    }
+    footer{
+        margin-bottom: 1vh;
+    }
+    aside{
+        width: 88vw;
+    }
+
+}

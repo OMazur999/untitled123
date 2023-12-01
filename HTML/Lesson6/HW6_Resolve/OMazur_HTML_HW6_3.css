@@ -1,0 +1,81 @@
+body{
+    /*background-color: #46082c;*/
+    margin: 0 0 0 0;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+header{
+    width: 98vw;
+    height: 8vh;
+    display: flex;
+    justify-items: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /*background-color: #40ad24;*/
+    margin: 1vh 1vw;
+}
+.Link{
+    height: 8vh;
+    width: 8vw;
+    background-color: blue;
+    margin: 0 1vw;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#Lk4{
+    margin-left: 0;
+}
+main{
+    width: 98vw;
+    background-color: blue;
+    height: 38vh;
+    margin: 0 1vw 2vh 0;
+    display: flex;
+    justify-content: right;
+    align-items: flex-start;
+    border-radius: 10px;
+}
+h4{
+    margin-top: 2vh;
+    margin-right: 2vw;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    width: 99vw;
+    height: 36vh;
+    margin: 3vh 0 0 0;
+    /*background-color: #40ad24;*/
+}
+.Art1, .Art2{
+    display: flex;
+}
+footer{
+    height: 8vh;
+    width: 97vw;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1vh 1vw;
+    border-radius: 5px;
+}
+.Article{
+    width: 47.5vw;
+    height: 16vh;
+    margin: 1vh 1vw;
+    background-color: blue;
+    display: flex;
+    justify-content: right;
+    align-items: flex-start;
+    border-radius: 10px;
+}
+p{
+    margin: 2vh 2vw 0 0;
+}
+#AP4{
+    margin-top: 1vh;
+}

@@ -1,0 +1,32 @@
+@media screen and (min-width: 100px) and (max-width: 480px){
+    main{
+        width: 96vw;
+        height: 98vh;
+    }
+    header{
+        width: 94vw;
+        height: 15vh;
+        margin: 1vh 1vw;
+        border-radius: 10px;
+    }
+    .blockBC{
+        width: 94vw;
+        height: 80vh;
+        margin: 1vh 1vw;
+        display: flex;
+        flex-direction: column;
+    }
+    section{
+        width: 94vw;
+        height: 64vh;
+        margin: 0 0 1vh 0;
+        border-radius: 10px;
+    }
+    footer{
+        width: 94vw;
+        height: 15vh;
+        margin: 0 0 0 0;
+        border-radius: 10px;
+    }
+
+}
