@@ -106,6 +106,7 @@ function minOfArr(arr) {
     return min;
 }
 
+
 console.log(minOfArr(numbers));
 
 function minOfArr1(arr) {
