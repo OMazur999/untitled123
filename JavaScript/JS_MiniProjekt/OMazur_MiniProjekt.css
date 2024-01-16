@@ -1,0 +1,48 @@
+mark{
+    color: #ce17cb;
+    background-color: #0fedff;
+}
+body {
+    font-family: Arial, sans-serif;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    vertical-align: top;
+    text-align: center;
+}
+.userDiv {
+    width: max-content;
+    border: 3px solid #428521;
+    margin: 10px;
+    box-shadow: 7px -5px 5px 1px rgba(206, 23, 203, 0.71);
+}
+#userInfo, #postInfo{
+    box-shadow: 12px -9px 15px 3px rgb(82, 75, 75);
+    border: 3px solid #0fedff;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+button{
+    width: 40vw;
+    height: auto;
+    background-color: #a9a0a0;
+    color: #a92222;
+    font-size: 16px;
+    margin-bottom: 5vh;
+}
+.postDiv{
+    border: 1px solid #2f0548;
+    margin: 5px;
+}
+#postComments div{
+    box-shadow: 10px -8px 11px 9px rgb(169, 34, 34);
+    border: 3px solid #428521;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
