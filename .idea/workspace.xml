@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="push 3">
-      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/HW1/OMazur_JS_HW1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/HW1/OMazur_JS_HW1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/L1/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson1/L1/main.js" afterDir="false" />
+    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="JS Mini Projekt">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson12/HW12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson12/HW12/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson12/HW12/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Tasks/JS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +24,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
+        <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -41,27 +48,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Galaxy Book/IdeaProjects/untitled123/HTML/Figma_Project_Ukrposta&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/JavaScript/JS_MiniProjekt",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "ts.external.directory.path": "C:\\Users\\Galaxy Book\\IdeaProjects\\untitled123\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\JS_MiniProjekt" />
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson6" />
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson6\HW6_Resolve" />
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson5\HW5\Resolve5" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Figma_Project_Ukrposta" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\JS_MiniProjekt" />
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\JS_MiniProjekt\Favicon" />
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson6\Task6" />
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson6\HW6_Resolve" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson1\HW1" />
     </key>
   </component>
@@ -82,7 +100,13 @@
       <workItem from="1700248883614" duration="2302000" />
       <workItem from="1700251413580" duration="76000" />
       <workItem from="1700251823739" duration="134000" />
-      <workItem from="1700591115474" duration="1283000" />
+      <workItem from="1700591115474" duration="7485000" />
+      <workItem from="1701205647391" duration="34217000" />
+      <workItem from="1704488978135" duration="1250000" />
+      <workItem from="1704493684844" duration="3148000" />
+      <workItem from="1704741827580" duration="4079000" />
+      <workItem from="1704920747156" duration="6588000" />
+      <workItem from="1705148136626" duration="29780000" />
     </task>
     <task id="LOCAL-00001" summary="push 2">
       <created>1700245568974</created>
@@ -130,11 +154,88 @@
       <option name="project" value="LOCAL" />
       <updated>1700251841161</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Java Script HW1">
+      <option name="closed" value="true" />
+      <created>1700592762111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700592762111</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ADD HTML HW5">
+      <option name="closed" value="true" />
+      <created>1700600364004</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700600364004</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ADD HTML HW6 + dodatkove">
+      <option name="closed" value="true" />
+      <created>1701465668974</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701465668974</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ADD JS HW2,3,4">
+      <option name="closed" value="true" />
+      <created>1702242250631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702242250631</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ADD JS HW2,3,4">
+      <option name="closed" value="true" />
+      <created>1702242389382</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702242389382</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ADD JS HW5">
+      <option name="closed" value="true" />
+      <created>1704751430400</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704751430400</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ADD JS HW5">
+      <option name="closed" value="true" />
+      <created>1704925121061</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704925121061</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ADD JS HW6">
+      <option name="closed" value="true" />
+      <created>1704925162968</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704925162968</updated>
+    </task>
+    <task id="LOCAL-00015" summary="JS Mini Projekt">
+      <option name="closed" value="true" />
+      <created>1705436252080</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705436252080</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -151,6 +252,13 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="push 2" />
     <MESSAGE value="push 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="push 3" />
+    <MESSAGE value="Java Script HW1" />
+    <MESSAGE value="ADD HTML HW5" />
+    <MESSAGE value="ADD HTML HW6 + dodatkove" />
+    <MESSAGE value="ADD JS HW2,3,4" />
+    <MESSAGE value="ADD JS HW5" />
+    <MESSAGE value="ADD JS HW6" />
+    <MESSAGE value="JS Mini Projekt" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Mini Projekt" />
   </component>
 </project>
