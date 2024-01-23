@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="JS Mini Projekt">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson12/HW12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson12/HW12/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson12/HW12/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Tasks/JS.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+    <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="JS HW 8">
+      <change afterPath="$PROJECT_DIR$/DataBases/001" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +17,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/JavaScript/JS_MiniProjekt",
+    "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/JavaScript/Lesson8",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,15 +57,23 @@
     "settings.editor.selected.configurable": "terminal",
     "ts.external.directory.path": "C:\\Users\\Galaxy Book\\IdeaProjects\\untitled123\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "H2"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson8" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\JS_MiniProjekt" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson6" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson6\HW6_Resolve" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson5\HW5\Resolve5" />
-      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Figma_Project_Ukrposta" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\JS_MiniProjekt" />
@@ -106,7 +106,7 @@
       <workItem from="1704493684844" duration="3148000" />
       <workItem from="1704741827580" duration="4079000" />
       <workItem from="1704920747156" duration="6588000" />
-      <workItem from="1705148136626" duration="29780000" />
+      <workItem from="1705148136626" duration="41785000" />
     </task>
     <task id="LOCAL-00001" summary="push 2">
       <created>1700245568974</created>
@@ -226,7 +226,31 @@
       <option name="project" value="LOCAL" />
       <updated>1705436252080</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="JS Mini Projekt">
+      <option name="closed" value="true" />
+      <created>1705606049793</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705606049793</updated>
+    </task>
+    <task id="LOCAL-00017" summary="JS HW 8">
+      <option name="closed" value="true" />
+      <created>1706031459233</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706031459233</updated>
+    </task>
+    <task id="LOCAL-00018" summary="JS HW 8">
+      <option name="closed" value="true" />
+      <created>1706031715249</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706031715249</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +283,7 @@
     <MESSAGE value="ADD JS HW5" />
     <MESSAGE value="ADD JS HW6" />
     <MESSAGE value="JS Mini Projekt" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Mini Projekt" />
+    <MESSAGE value="JS HW 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS HW 8" />
   </component>
 </project>
