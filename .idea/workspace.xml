@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e0cdf9-f85a-4d53-b00e-cd4bdb1cbe69" name="Changes" comment="JS HW 8">
-      <change afterPath="$PROJECT_DIR$/DataBases/001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson9/OMazur_JS_HW9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson9/OMazur_JS_HW9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson9/OMazur_JS_HW9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Lesson9/icons8-penrose-square-24.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/JavaScript/Lesson8",
+    "last_opened_file_path": "C:/Users/Galaxy Book/IdeaProjects/untitled123/JavaScript/Lesson9",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,11 +72,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson9" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson8" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\JS_MiniProjekt" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\Lesson6" />
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson6\HW6_Resolve" />
-      <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\HTML\Lesson5\HW5\Resolve5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Galaxy Book\IdeaProjects\untitled123\JavaScript\JS_MiniProjekt" />
@@ -106,7 +109,8 @@
       <workItem from="1704493684844" duration="3148000" />
       <workItem from="1704741827580" duration="4079000" />
       <workItem from="1704920747156" duration="6588000" />
-      <workItem from="1705148136626" duration="41785000" />
+      <workItem from="1705148136626" duration="42235000" />
+      <workItem from="1706032978775" duration="9508000" />
     </task>
     <task id="LOCAL-00001" summary="push 2">
       <created>1700245568974</created>
@@ -250,7 +254,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706031715249</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="JS HW 8">
+      <option name="closed" value="true" />
+      <created>1706031996441</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706031996441</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixup! JS HW 8">
+      <option name="closed" value="true" />
+      <created>1706032112426</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1706032112426</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +286,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -284,6 +310,7 @@
     <MESSAGE value="ADD JS HW6" />
     <MESSAGE value="JS Mini Projekt" />
     <MESSAGE value="JS HW 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS HW 8" />
+    <MESSAGE value="fixup! JS HW 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! JS HW 8" />
   </component>
 </project>

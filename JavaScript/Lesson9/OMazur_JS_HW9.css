@@ -1,0 +1,47 @@
+.wrap{
+    border: solid 3px black;
+    width: 40vw;
+    height: 20vh;
+    margin: 10px;
+}
+.omega{
+    border: solid 1px black;
+    width: 50vw;
+    height: auto;
+    margin: 2px;
+    background-color: cornflowerblue;
+    color: #2f0548;
+    font-style: inherit;
+}
+.item{
+    border: solid 1px black;
+    width: 50vw;
+    height: auto;
+    margin: 2px;
+    background-color: #428521;
+    color: #6d1a9f;
+}
+.heading{
+    color: #a92222;
+}
+#members, .member {
+    border: solid 1px black;
+    margin: 5px;
+}
+#parentElementId{
+    border: solid 1px black;
+    margin: 5px;
+}
+.course-block{
+    border: solid 1px black;
+    margin: 2px;
+}
+.durationBlock{
+    /*border: solid 1px black;*/
+    margin: 2px;
+    display: flex ;
+}
+.durationBlock div{
+    /*border: solid 1px black;*/
+margin-right: 40px;
+}
